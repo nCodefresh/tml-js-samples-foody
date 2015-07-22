@@ -4,6 +4,10 @@
       "id":"salad",
       "name":"סלטי נתן"
     },
+      {
+      "id":"testdemo",
+      "name":"Shakshuka"
+    },
     {
       "id":"fish",
       "name":"Fish"
